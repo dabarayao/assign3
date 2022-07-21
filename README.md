@@ -1,2 +1,1 @@
-# assign3
-assignment 3 for goole coursera
+I am editing the README file. Adding some more details about the project description.
